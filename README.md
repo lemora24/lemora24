@@ -6,6 +6,15 @@ This portfolio is for you to know my areas of knowledge and experience of my ind
 
 ### Quality Assurance Projects💻
 - [QA Testing](https://github.com/ycambro/BookShoppingCart-Mvc.git)
+- [QA Testing with Selenium](https://github.com/lemora24/AdminSalticos.git)
+
+### MVC Arquitecture🏗️
+- (https://github.com/lemora24/AdminSalticos.git)
+- (https://github.com/YarBeen/Sistema-Administracion-EFOOD.git)
+
+### Database Projects
+- [Web application using Apache Tomcat, Java, SQL](https://github.com/yosgarcia/Proyecto1-BDII.git)📚
+- [Database replication project using SQL, Tableau, PostgreSQL](https://github.com/ycambro/Proyecto2BD.git)📊
 <!--
 **lemora24/lemora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
