@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Leonardo Mora, a Junior Software Developer and a Computer Engineering at Tecnologico de Costa Rica.
+This portfolio is for you to know my areas of knowledge and experience of my individual programming expertise.
 
+## 
+
+### Quality Assurance Projects💻
+- [QA Testing](https://github.com/ycambro/BookShoppingCart-Mvc.git)
 <!--
 **lemora24/lemora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
